@@ -14,14 +14,14 @@ See [Releases](https://github.com/Cyber1551/Anvil-Cell-Workbench/releases) for t
 
 ## Recipe
 
-<img src="/img/recipe.png" alt="image" width="250">
+<img src="/img/recipe.png" alt="image" width="400">
 
 ## Features
 
 The `Anvil Cell Workbench` block adds the renaming functionality of the vanilla anvil to the AE2 `Cell workbench`
 
 <img src="/img/workbench_ui.png" alt="image" width="750">
-<br /><br />
+<br />
 <img src="/img/renamed.png" alt="image" width="750">
 
 A new option has been added that allows toggling between `Standard` and `AutoFocus` functionality allowing the text box to automatically focus when opening the GUI.
