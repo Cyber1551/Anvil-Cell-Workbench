@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "normal": {
+            "model": "advanced_cell_workbench:advanced_cell_workbench"
+        }
+    }
+}
