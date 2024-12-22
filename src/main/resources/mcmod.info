@@ -1,8 +1,8 @@
 [
 {
-  "modid": "fluidic_arm",
-  "name": "Fluidic Arm",
-  "description": "Adds new fluidic arm covers whichs transfers both items and fluids at once.",
+  "modid": "anvil_cell_workbench",
+  "name": "Anvil Cell Workbench",
+  "description": "Adds an upgraded cell workbench with built-in renaming capabilities to Applied Energistics 2",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
@@ -11,6 +11,6 @@
   "credits": "",
   "logoFile": "",
   "screenshots": [],
-  "dependencies": ["gregtech"]
+  "dependencies": ["appliedenergistics2"]
 }
 ]

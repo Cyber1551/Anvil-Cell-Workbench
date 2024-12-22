@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "normal": {
+            "model": "anvil_cell_workbench:anvil_cell_workbench"
+        }
+    }
+}

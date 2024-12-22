@@ -1,0 +1,7 @@
+itemGroup.anvil_cell_workbench=Anvil Cell Workbench
+
+tile.anvil_cell_workbench:anvil_cell_workbench.name=Anvil Cell Workbench
+
+gui.anvil_cell_workbench.rename_mode.title=Rename Mode
+gui.anvil_cell_workbench.rename_mode.standard=Standard
+gui.anvil_cell_workbench.rename_mode.auto_focus=Auto Focus

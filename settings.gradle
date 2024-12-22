@@ -16,4 +16,4 @@ include 'api'
 include 'services:webservice'
 */
 
-rootProject.name = 'Advanced Cell Workbench'
+rootProject.name = 'Anvil Cell Workbench'

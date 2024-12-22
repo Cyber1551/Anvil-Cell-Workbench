@@ -1,0 +1,24 @@
+{
+  "result": {
+    "item": "anvil_cell_workbench:anvil_cell_workbench"
+  },
+  "pattern": [
+    " l ",
+    " a ",
+    " c "
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "c": {
+      "item": "appliedenergistics2:cell_workbench"
+    },
+    "a": {
+      "item": "minecraft:anvil",
+      "data": 0
+    },
+    "l": {
+      "type": "appliedenergistics2:part",
+      "part": "material.engineering_processor"
+    }
+  }
+}
